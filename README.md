@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinaykumar-chauhan-195663201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vinaykumar-chauhan-195663201" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/people/vinay-chauhan/100005099509426" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/people/vinay-chauhan/100005099509426" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/vinay_chauhan7722/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/vinay_chauhan7722/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/vc_765/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/vinay_chauhan7722/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vinay_chauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="vinay_chauhan" height="30" width="40" /></a>
 </p>
 
