@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinay Chauhan</h1>
-<h3 align="center">A game and flutter developer and enthusiastic to be a part of real world projects!</h3>
+<h3 align="center">A Web developer and enthusiastic to be a part of real world projects!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay7722" alt="vinay7722" /></a> </p>
 
 - 📫 How to reach me **vchauhan765@rku.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J6pQG2FEJSZK5vR62l7SuLMGvDehO6La/view?usp=sharing](https://drive.google.com/file/d/1J6pQG2FEJSZK5vR62l7SuLMGvDehO6La/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HYiTJ9Sq-pqcK-_pR68yjA2TtwkMsC6Z/view?usp=share_link](https://drive.google.com/file/d/1HYiTJ9Sq-pqcK-_pR68yjA2TtwkMsC6Z/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
