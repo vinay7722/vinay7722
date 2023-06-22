@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay7722" alt="vinay7722" /></a> </p>
 
-- 📫 How to reach me **vchauhan765@rku.ac.in**
+- 📫 How to reach me **vc361055@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1HYiTJ9Sq-pqcK-_pR68yjA2TtwkMsC6Z/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1CdjgOCYuM7gj5a_v5YjGzCPcjtzMx_LC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
